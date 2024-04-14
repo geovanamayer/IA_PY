@@ -1,2 +1,2 @@
 # IA_PY
-trabalho de IA
+trabalho de IA com Missionários e Canibais algoritmo resolvido 
